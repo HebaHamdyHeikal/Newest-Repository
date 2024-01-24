@@ -24,8 +24,8 @@ a block
 of code
 ```
 
-Here is how you make [a link] (https://www.wikipedia.org/).
+Here is how you make ([a link](https://www.wikipedia.org/)).
 
-![This is an image.]image.](https://github.com/yihui/xar\
+(![This is an image.]image.](https://github.com/yihui/xar\
 ingan/releases/download/v0.0.2/karl-moustache.jpg\
-)
+))
